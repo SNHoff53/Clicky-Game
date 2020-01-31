@@ -1,61 +1,73 @@
 [
     {
         "id": 1,
+        "name": "BB-8",
         "count": 0,
         "image": "clicky-game-react/public/assets/BB-8-card.jpg"
     },
     {
         "id": 2,
+        "name": "Bobba Fett",
         "count": 0,
         "image": "clicky-game-react/public/assets/Bobba-fett-card.jpg"
     },
     {
         "id": 3,
+        "name": "Chewy",
         "count": 0,
         "image": "clicky-game-react/public/assets/chewy-card.jpg"
     },
     {
         "id": 4,
+        "name": "Darth Vader",
         "count": 0,
         "image": "clicky-game-react/public/assets/darth-vader-card.jpg"
     },
     {
         "id": 5,
+        "name": "Obi Wan",
         "count": 0,
         "image": "clicky-game-react/public/assets/Obi-wan-card.jpg"
     },
     {
         "id": 6,
+        "name": "Han Solo",
         "count": 0,
         "image": "clicky-game-react/public/assets/Han-Solo-card.jpg"
     },
     {
         "id": 7,
+        "name": "Kylo Ren",
         "count": 0,
         "image": "clicky-game-react/public/assets/Kylo-Ren-card.jpg"
     },
     {
         "id": 8,
+        "name": "Leia",
         "count": 0,
         "image": "clicky-game-react/public/assets/leia-card.jpg"
     },
     {
         "id": 9,
+        "name": "Luke",
         "count": 0,
         "image": "clicky-game-react/public/assets/luke-card.jpg"
     },
     {
         "id": 10,
+        "name": "R2D2",
         "count": 0,
         "image": "clicky-game-react/public/assets/R2D2-C3PO-card.jpg"
     },
     {
         "id": 11,
+        "name": "Storm Trooper",
         "count": 0,
         "image": "clicky-game-react/public/assets/storm-trooper-card.jpg"
     },
     {
         "id": 12,
+        "name": "Yoda",
         "count": 0,
         "image": "clicky-game-react/public/assets/yoda-card.jpg"
     }
