@@ -1,50 +1,62 @@
 [
     {
         "id": 1,
+        "count": 0,
         "image": "clicky-game-react/public/assets/BB-8-card.jpg"
     },
     {
         "id": 2,
+        "count": 0,
         "image": "clicky-game-react/public/assets/Bobba-fett-card.jpg"
     },
     {
         "id": 3,
+        "count": 0,
         "image": "clicky-game-react/public/assets/chewy-card.jpg"
     },
     {
         "id": 4,
+        "count": 0,
         "image": "clicky-game-react/public/assets/darth-vader-card.jpg"
     },
     {
         "id": 5,
+        "count": 0,
         "image": "clicky-game-react/public/assets/Obi-wan-card.jpg"
     },
     {
         "id": 6,
+        "count": 0,
         "image": "clicky-game-react/public/assets/Han-Solo-card.jpg"
     },
     {
         "id": 7,
+        "count": 0,
         "image": "clicky-game-react/public/assets/Kylo-Ren-card.jpg"
     },
     {
         "id": 8,
+        "count": 0,
         "image": "clicky-game-react/public/assets/leia-card.jpg"
     },
     {
         "id": 9,
+        "count": 0,
         "image": "clicky-game-react/public/assets/luke-card.jpg"
     },
     {
         "id": 10,
+        "count": 0,
         "image": "clicky-game-react/public/assets/R2D2-C3PO-card.jpg"
     },
     {
         "id": 11,
+        "count": 0,
         "image": "clicky-game-react/public/assets/storm-trooper-card.jpg"
     },
     {
         "id": 12,
+        "count": 0,
         "image": "clicky-game-react/public/assets/yoda-card.jpg"
     }
 ]
